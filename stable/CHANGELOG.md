@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 1.4.2
+        - Fix EstarPower
+
 ## 1.4.1
 
         - Revert way of generating uuid.
