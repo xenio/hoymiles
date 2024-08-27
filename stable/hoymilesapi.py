@@ -353,9 +353,9 @@ class Hoymiles(object):
         header = HEADER_DATA
         header["Cookie"] = (
             COOKIE_UID
-            + "; hm_token="
+            + "; estar_token="
             + self.connection.token
-            + "; Path=/; Domain=.global.hoymiles.com;"
+            + "; Path=/; Domain=.monitor.estarpower.com;"
             + f"Expires=Sat, 30 Mar {date.today().year + 1} 22:11:48 GMT;"
             + "'"
         )
@@ -424,9 +424,9 @@ class Hoymiles(object):
         header = HEADER_DATA
         header["Cookie"] = (
             COOKIE_UID
-            + "; hm_token="
+            + "; estar_token="
             + self.connection.token
-            + "; Path=/; Domain=.global.hoymiles.com;"
+            + "; Path=/; Domain=.monitor.estarpower.com;"
             + f"Expires=Sat, 30 Mar {date.today().year + 1} 22:11:48 GMT;"
             + "'"
         )
@@ -484,9 +484,9 @@ class Hoymiles(object):
         header = HEADER_DATA
         header["Cookie"] = (
             COOKIE_UID
-            + "; hm_token="
+            + "; estar_token="
             + self.connection.token
-            + "; Path=/; Domain=.global.hoymiles.com;"
+            + "; Path=/; Domain=.monitor.estarpower.com;"
             + f"Expires=Sat, 30 Mar {date.today().year + 1} 22:11:48 GMT;"
             + "'"
         )
@@ -501,9 +501,9 @@ class Hoymiles(object):
         header = HEADER_DATA
         header["Cookie"] = (
             COOKIE_UID
-            + "; hm_token="
+            + "; estar_token="
             + self.connection.token
-            + "; Path=/; Domain=.global.hoymiles.com;"
+            + "; Path=/; Domain=.monitor.estarpower.com;"
             + f"Expires=Sat, 30 Mar {date.today().year + 1} 22:11:48 GMT;"
             + "'"
         )
@@ -574,9 +574,9 @@ class Hoymiles(object):
         header = HEADER_DATA
         header["Cookie"] = (
             COOKIE_UID
-            + "; hm_token="
+            + "; estar_token="
             + self.connection.token
-            + "; Path=/; Domain=.global.hoymiles.com;"
+            + "; Path=/; Domain=.monitor.estarpower.com;"
             + f"Expires=Sat, 30 Mar {date.today().year + 1} 22:11:48 GMT;"
             + "'"
         )
