@@ -1,6 +1,6 @@
 # HoyMiles Solar Data Gateway Add-on Stable version
 
-## Important Info
+## Important Info UPDATE
 
 ## EDGE goes to full development mode - will be rewritten from scratch
 

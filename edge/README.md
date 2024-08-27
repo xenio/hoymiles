@@ -17,7 +17,7 @@
 
 # Branch in full full development mode - will be rewritten from scratch
 
-## Important Info
+## Important Info UPDATE
 
 Addon is in maintenance mode. This is FOSS (Free Open Source Software) and based on reverse engineering so it could not work always as expected. What is more due to techical dept present implementation loose possibility to add new features. This mean that it **required rewriting from scratch**. Without support from community it **is not predicted soon**.
 
