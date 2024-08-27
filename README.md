@@ -1,6 +1,6 @@
 <img src="https://github.com/dmslabsbr/hoymiles/raw/master/img/logo.png" alt="" width="200" />
 
-# Important Info
+# Important Info UPDATE
 
 ## EDGE goes to full development mode - will be rewritten from scratch
 
@@ -15,6 +15,8 @@ Application to read Hoymiles Gateway Solar Data using unofficial API
 I developed this program to integrate my solar system data to [Home Assistant](https://www.home-assistant.io/) Application through an add-on.
 
 Now, [Cosik](https://github.com/Cosik)  is helping too.
+
+Repository: https://github.com/xenio/hoymiles
 
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fxenio%2Fhoymiles)
 
